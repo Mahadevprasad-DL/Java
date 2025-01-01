@@ -1,3 +1,4 @@
+// Print table using forloop //
 package util;
 
 import java.util.Scanner;
