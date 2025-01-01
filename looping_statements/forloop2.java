@@ -1,3 +1,4 @@
+//Print sum of n natural numbers//
 package util;
 import java.util.Scanner;
 
