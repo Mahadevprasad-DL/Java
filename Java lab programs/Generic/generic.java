@@ -46,7 +46,7 @@ public class GenericDemo {
      
      
      
-
+     // integer 
      System.out.print("\nEnter the size of the Integer array: ");
      int intSize = scanner.nextInt();
      Integer[] intArray = new Integer[intSize];
